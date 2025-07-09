@@ -16,7 +16,6 @@
 
 - 👁️ Toggle interativo para mostrar/esconder senha
 - 📱 Design totalmente responsivo
-- 💫 Animações e transições suaves
 - 🔍 Validação básica de campos
 
 ## 🎯 Demonstração
