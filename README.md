@@ -14,7 +14,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 </div>
 
-### Outro Login: <a href="">Login</a>
 
 ## ⭐ Recursos Destacados
 
@@ -24,7 +23,7 @@
 
 
 
-
+### Outro Login: <a href="https://icarox52.github.io/TreinoLogin/">Login</a>
 
 
 ## 🌟 Apoie o Projeto
