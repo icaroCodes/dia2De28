@@ -1,7 +1,5 @@
 # 🔐 Página de Login Interativa
 
-![Preview da Página](https://github.com/Icarox52/dia2De28/blob/main/Captura%20de%20tela%202025-07-08%20235400.png)
-
 [![Live Demo](https://img.shields.io/badge/Demo-Live-green?style=for-the-badge)](https://icarox52.github.io/dia2De28/)
 
 ✨ Um elegante formulário de login desenvolvido com tecnologias modernas como parte do desafio **#28diasdecodigo**.
