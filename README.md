@@ -28,4 +28,4 @@
 
 Se gostou deste projeto, deixe uma ⭐ no repositório!
 
-[![Seguir no GitHub](https://img.shields.io/badge/Seguir-icarox52-blue?style=for-the-badge&logo=github)](https://github.com/icaroCodes)
+[![Seguir no GitHub](https://img.shields.io/badge/Seguir-icaroCodes-blue?style=for-the-badge&logo=github)](https://github.com/icaroCodes)
