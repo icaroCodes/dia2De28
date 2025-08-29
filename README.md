@@ -21,7 +21,7 @@
 
 
 
-### Outro Login: <a href="https://icarox52.github.io/TreinoLogin/">Login</a>
+### Outro Login: <a href="https://icaroCodes.github.io/TreinoLogin/">Login</a>
 
 
 ## 🌟 Apoie o Projeto
