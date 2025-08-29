@@ -1,6 +1,6 @@
 # 🔐 Página de Login Interativa
 
-[![Live Demo](https://img.shields.io/badge/Demo-Live-green?style=for-the-badge)](https://icarox52.github.io/dia2De28/)
+[![Live Demo](https://img.shields.io/badge/Demo-Live-green?style=for-the-badge)](https://icaroCodes.github.io/dia2De28/)
 
 ✨ Um elegante formulário de login desenvolvido com tecnologias modernas como parte do desafio **#28diasdecodigo**.
 
@@ -28,4 +28,4 @@
 
 Se gostou deste projeto, deixe uma ⭐ no repositório!
 
-[![Seguir no GitHub](https://img.shields.io/badge/Seguir-icarox52-blue?style=for-the-badge&logo=github)](https://github.com/icarox52)
+[![Seguir no GitHub](https://img.shields.io/badge/Seguir-icarox52-blue?style=for-the-badge&logo=github)](https://github.com/icaroCodes)
